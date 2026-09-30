@@ -117,5 +117,5 @@ Raising the threshold to 0.65 means the model must be 65%+ confident a patient i
 
 ## Author
 
-Devansh Sharma
+Devansh Sharma<br>
 github.com/DevanshSharmaJi | linkedin.com/in/devansh-sharma-b39307310
