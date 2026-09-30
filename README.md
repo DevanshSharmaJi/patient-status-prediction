@@ -1,4 +1,4 @@
-# Patient Risk Stratification — ML Pipeline
+# Patient Status Prediction — ML Pipeline
 
 A production-grade machine learning pipeline for predicting patient enrollment status (Active vs Inactive) from clinical data. Built for healthcare organizations to identify at-risk patients before they disengage from care.
 
