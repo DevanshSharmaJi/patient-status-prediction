@@ -117,5 +117,5 @@ Raising the threshold to 0.65 means the model must be 65%+ confident a patient i
 
 ## Author
 
-Data Engineer at a healthcare technology company.  
-Built for clinical data pipelines serving community health centers.
+Devansh Sharma
+github.com/DevanshSharmaJi | linkedin.com/in/devansh-sharma-b39307310
